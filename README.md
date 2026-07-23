@@ -22,7 +22,7 @@
 ---
 
 ### 📁 Featured Projects
-#### [IQueue](https://github.com/friedchikan) | *React Native, Node.js, Firebase*
+#### [IQueue](https://iqueue-zeta.vercel.app/) | *React Native, Node.js, Firebase*
 - A virtual queuing platform for the Pakistani market featuring real-time notifications and secure payment handling.
 - **Key Tech:** Implemented MongoDB transactions for data integrity and secure fintech integration.
 
